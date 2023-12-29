@@ -7,6 +7,7 @@ function App() {
             <header className="App-header">
                 <h5>Hi, my name is</h5>
                 <h1>BrandonDHaskell</h1>
+                <img src="/Profile_Pic_2_medium.jpg" alt="Profile" />
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </header>
         </div>
